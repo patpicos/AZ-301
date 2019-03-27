@@ -1,5 +1,5 @@
-# AZ-301
-Study Guide for Microsoft Exam AZ-300 Microsoft Azure Architect Design
+# AZ-301 Microsoft Azure Architect Design Exam Study Guide
+Study Guide for Microsoft Exam AZ-301 Microsoft Azure Architect Design
 
 For more information about the exam, visit https://www.microsoft.com/en-us/learning/exam-az-301.aspx
 
